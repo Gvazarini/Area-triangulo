@@ -1,0 +1,15 @@
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Primeiro.proj\Primeiro.proj\bin\Debug\net6.0\Primeiro.proj.exe
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Primeiro.proj\Primeiro.proj\bin\Debug\net6.0\Primeiro.proj.deps.json
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Primeiro.proj\Primeiro.proj\bin\Debug\net6.0\Primeiro.proj.runtimeconfig.json
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Primeiro.proj\Primeiro.proj\bin\Debug\net6.0\Primeiro.proj.dll
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Primeiro.proj\Primeiro.proj\bin\Debug\net6.0\ref\Primeiro.proj.dll
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Primeiro.proj\Primeiro.proj\bin\Debug\net6.0\Primeiro.proj.pdb
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Primeiro.proj\Primeiro.proj\obj\Debug\net6.0\Primeiro.proj.csproj.AssemblyReference.cache
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Primeiro.proj\Primeiro.proj\obj\Debug\net6.0\Primeiro.proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Primeiro.proj\Primeiro.proj\obj\Debug\net6.0\Primeiro.proj.AssemblyInfoInputs.cache
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Primeiro.proj\Primeiro.proj\obj\Debug\net6.0\Primeiro.proj.AssemblyInfo.cs
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Primeiro.proj\Primeiro.proj\obj\Debug\net6.0\Primeiro.proj.csproj.CoreCompileInputs.cache
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Primeiro.proj\Primeiro.proj\obj\Debug\net6.0\Primeiro.proj.dll
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Primeiro.proj\Primeiro.proj\obj\Debug\net6.0\ref\Primeiro.proj.dll
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Primeiro.proj\Primeiro.proj\obj\Debug\net6.0\Primeiro.proj.pdb
+C:\Users\G. Vazarini\Desktop\Bruna.Trad\Primeiro.proj\Primeiro.proj\obj\Debug\net6.0\Primeiro.proj.genruntimeconfig.cache
